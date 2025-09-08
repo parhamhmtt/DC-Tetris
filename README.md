@@ -31,4 +31,5 @@ The system handles block movement, rotation, collision detection, and line clear
 
 ---
 
-![Uploading Screenshot (252).png…]()
+
+<img width="1920" height="968" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/cd2098e2-08ac-41fe-99f5-a11872720cc7" />
