@@ -1,35 +1,25 @@
-# 🎮 Tetris Game – Proteus Hardware Simulation  
+[README.md](https://github.com/user-attachments/files/33202319/README.md)
+# 🎮 Tetris – Proteus Simulation Project
 
-A classic **Tetris game** implemented using logic gates design and simulated in **Proteus** contributed with [Amin Noorbakhsh](https://github.com/madysed)
-  
-  
----
+This project implements the classic **Tetris game** using **Proteus Design Suite**.  
+The game runs in a fully simulated hardware environment and demonstrates real-time embedded system behavior.
 
-## 🚀 Introduction  
+It includes:
 
-Tetris is one of the most iconic puzzle games ever created.  
-In this project, we recreated Tetris in a hardware environment using **Proteus** simulation and microcontroller programming.  
-The system handles block movement, rotation, collision detection, and line clearing – all visualized within Proteus.  
+- 🧱 Real-time block movement  
+- 🔄 Block rotation  
+- 🚧 Collision detection  
+- 🗑️ Line clearing logic  
+- 🏆 Score management  
 
----
-
-## 🎯 Project Objectives  
-
-- Simulate game hardware environment in Proteus  
-- Manage block movement, rotation, and line completion  
-- Provide real-time user interaction with hardware buttons/inputs  
-- Demonstrate hardware-software co-design for classic games  
+All hardware components such as the display and input buttons are simulated directly inside Proteus.
 
 ---
 
-## 🌟 Key Features  
+## 🖥️ Simulation Preview
 
-✅ Real-time block movement and rotation  
-✅ Line clearing and score handling  
-✅ LED/LCD visualization in Proteus  
-✅ Modular design for easy expansion  
+### Circuit Design
+<img width="1291" height="1020" alt="Tetris Screenshot 1" src="https://github.com/user-attachments/assets/7ee06705-9df1-43e0-85b9-24940b78e29d" />
 
----
-
-
-<img width="1920" height="968" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/cd2098e2-08ac-41fe-99f5-a11872720cc7" />
+### Game Running in Proteus
+<img width="1000" height="1168" alt="Tetris Screenshot 2" src="https://github.com/user-attachments/assets/f6c155e9-5b51-4f02-909f-037c63893d32" />
